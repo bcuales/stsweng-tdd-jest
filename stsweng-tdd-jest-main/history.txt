@@ -1,0 +1,15 @@
+STSWENG TDD PAIR ACTIVITY
+
+Dev A / CUALES :
+    - File upload
+    - Created and pushed history.txt
+    - Committed fail test for update
+
+Dev B / BACOSA :
+    - Committed updated controller for update
+
+DEV A / CUALES :
+    = Committed fail test for findPost
+
+DEV B / BACOSA :
+    - Committed updated controller for findPost
